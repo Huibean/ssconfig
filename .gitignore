@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+ss_conf_backup.txt
+gui-config.json
+backup_base_content.txt
